@@ -31,6 +31,7 @@ To replicate the analysis or explore the data further:
 -Clone this repository to your local machine.
 -Load the provided dataset into your SQL database.
 -Run the SQL queries provided in the analysis to analyze the data.
--Import the analyzed data into Tableau for visualization.
+-Import the analyzed data into Tableau for visualization with the link here-
+https://public.tableau.com/views/FootBallAnalysis_17133016561810/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 -Explore the Tableau dashboards to gain insights from the data.
 
